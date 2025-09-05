@@ -1,0 +1,4 @@
+Funcionalidade: Criar múltiplos usuários dinamicamente
+
+  Cenário: Criar 12 registros
+    Dado que eu crio 12 registros de usuários
